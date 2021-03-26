@@ -3,6 +3,7 @@
 Welcome to the GitHub repository for the ParallelFS 757-200, a community made 757.
 
 ## Join the ParallelFS Community
+
 You can follow this project and interact with the ParallelFS community by joining the [ParallelFS Discord Server.](https://discord.gg/QGEVx5RZYr)
 
 ## Installation
@@ -18,7 +19,7 @@ Where can I download it?
 - The aircraft has not been released.
 
 When will it be released?
-- Our goal for release is late 2021, but this is a rough estimate and could change at any time.
+- Our goal for release is early 2022, but this is a rough estimate and could change at any time.
 
 How much will it cost?
 - This is a freeware project.
