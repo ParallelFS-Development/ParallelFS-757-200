@@ -1,3 +1,6 @@
-
-B752/_PackageInt/
-B752/Packages
+node_modules
+Packages
+_PackageInt
+generated
+.vs
+.idea

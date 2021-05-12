@@ -1,0 +1,38 @@
+<AssetPackage Name="parallelfs-aircraft-757" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>AIRCRAFT</ContentType>
+		<Title>757-200</Title>
+		<Manufacturer>Boeing</Manufacturer>
+		<Creator>Parallel Flight Simulations</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>true</VisibleInStore>
+		<CanBeReferenced>true</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\parallelfs-aircraft-757\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\parallelfs-aircraft-757\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MarketplaceData">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\parallelfs-aircraft-757\MarketplaceData\</AssetDir>
+			<OutputDir>MarketplaceData\parallelfs-aircraft-757\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ParallelFS_B757_200">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\Airplanes\ParallelFS_B757_200\</AssetDir>
+			<OutputDir>SimObjects\Airplanes\ParallelFS_B757_200\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
